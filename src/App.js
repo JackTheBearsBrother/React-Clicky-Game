@@ -1,16 +1,13 @@
 import React from "react";
-import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
-import MainContainer from "./components/MainContainer";
+import MainGameContainer from "./components/MainGameContainer";
 import "./App.css";
-// import images from "./images.json";
 
 
 const App = () => (
-  <div className="container-fluid mainContainer">
-    <Navbar />
+  <div className="container-fluid MainGameContainer">
     <Jumbotron />
-    <MainContainer /> 
+    <MainGameContainer /> 
   </div>
 );
 
