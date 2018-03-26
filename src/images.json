@@ -82,6 +82,34 @@
     "clicked": false,
     "image":
       "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/0698/brand.gif?itok=AOXU7GgP"
+  },
+  {
+    "id": 13,
+    "name": "Intel",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/122015/untitled-1_116.png?itok=iZDte5dF"
+  },
+  {
+    "id": 14,
+    "name": "Sony",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/sony.png?itok=Y-UxCzO-"
+  },
+  {
+    "id": 15,
+    "name": "Ebay",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102015/ebay_logo.png?itok=Aa4oyEhj"
+  },
+  {
+    "id": 16,
+    "name": "WhatsApp",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/whatsapp.jpg?itok=dTlsxLl4"
   }
 ]
 
