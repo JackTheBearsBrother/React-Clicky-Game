@@ -5,7 +5,7 @@ import "./App.css";
 
 
 const App = () => (
-  <div className="container-fluid MainGameContainer">
+  <div className="container-fluid mainContainer">
     <Jumbotron />
     <MainGameContainer /> 
   </div>
