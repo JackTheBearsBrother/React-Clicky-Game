@@ -12,7 +12,7 @@ Create a memory game with React
 
 ## Live App:
 
-[Check out the live app here](https://react-clicky-game-mw.herokuapp.com/)
+[Check out the live app here](https://m-wolowicz.github.io/React-Clicky-Game/index.html)
 
 ### Overview
 
